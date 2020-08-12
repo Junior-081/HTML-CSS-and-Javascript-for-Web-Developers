@@ -1,7 +1,7 @@
 body {
     font-size: 16px;
     color: red;
-    background-color: white;
+    background-color: rgba(248, 217, 217, 0.274);
     font-family: 'Oxygen', sans-serif;
 }
 
@@ -63,8 +63,9 @@ body {
 /* HOME PAGE */
 
 #home-tiles .item-text {
-    background: #5e5e5e;
+    background: #61122f;
     padding: 10px;
+    color: seashell;
 }
 
 #home-tiles .item-text p {
