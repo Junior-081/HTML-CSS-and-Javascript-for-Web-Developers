@@ -5,8 +5,8 @@ body {
     font-family: 'Oxygen', sans-serif;
 }
 
-#netho {
-    color: whitesmoke;
+#netho, #Beef , #Sushi {
+    color:yellow;
     font-size: large;
 }
 
@@ -63,9 +63,9 @@ body {
 /* HOME PAGE */
 
 #home-tiles .item-text {
-    background: #61122f;
+    background: gray;
     padding: 10px;
-    color: seashell;
+    color: white;
 }
 
 #home-tiles .item-text p {
